@@ -1,5 +1,4 @@
 # password-generator
-
 A simple Python project that generates secure random passwords based on user-selected length.
 
 ## Skills Used
